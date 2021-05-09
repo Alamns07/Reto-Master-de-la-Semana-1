@@ -6,6 +6,14 @@ En el presente repositorio se presentara información y `conceptos` referentes a
 
 [Inteligencia](https://github.com/Alamns07/Reto-Master-de-la-Semana-1/blob/main/README.md#inteligencia "Inteligencia")
 
+[Artificial](https://github.com/Alamns07/Reto-Master-de-la-Semana-1/blob/main/README.md#artificial "Artificial")
+
+[Inteligencia artificial](https://github.com/Alamns07/Reto-Master-de-la-Semana-1/blob/main/README.md#inteligencia-artificial "Inteligencia artificial")
+
+[Antecedentes de la IA](https://github.com/Alamns07/Reto-Master-de-la-Semana-1/blob/main/README.md#antecedentes-de-la-ia "Antecedentes de la IA")
+
+[La nube](https://github.com/Alamns07/Reto-Master-de-la-Semana-1/blob/main/README.md#la-nube "La nube")
+
 Inteligencia
 --------------------
 Para cada autor el concepto de inteligencia es diferente. Pero se puede relacionar a la capacidad de lógica, comprensión, autoconciencia, aprendizaje, conocimiento emocional, razonamiento, planificación, creatividad, pensamiento crítico y resolución de problemas.
