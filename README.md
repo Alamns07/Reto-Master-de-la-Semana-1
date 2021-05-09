@@ -2,7 +2,7 @@
 En el presente repositorio se presentara información y `conceptos` referentes al reto Master de la Semana 1 del curso de Inovacción.
 
 Índice
-[Heading link](https://github.com/Alamns07/Reto-Master-de-la-Semana-1/edit/main/README.md "Inteligencia")
+[Heading link](https://github.com/Alamns07/Reto-Master-de-la-Semana-1/blob/main/README.md "Inteligencia")
 
 Inteligencia
 --------------------
